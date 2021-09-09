@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cecilia</h1>
 <h3 align="center">A Frontend Developer in process</h3>
 
-- 🔭 I’m currently working on [Rick and Morty web](https://rick-and-morty-characters-app.netlify.app/)
 
 - 🌱 I’m currently learning **React, styled components, also interested in React Native**
 
